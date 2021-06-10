@@ -1,0 +1,11 @@
+a.out
+**.sw*
+**.o
+navy
+vgcore.*
+errors_build.txt
+tcsh_errors.c
+maps
+pos1
+pos2
+pos3
